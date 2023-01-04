@@ -1,0 +1,14 @@
+@charset "UTF-8";
+body{
+    background-color: aquamarine;
+}
+header{
+    background-color: antiquewhite;
+}
+main{
+    background-color: azure;
+}
+footer{
+    background-color: blue;
+    color: white;
+}
